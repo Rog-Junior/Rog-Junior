@@ -41,8 +41,8 @@ Here are some ideas to get you started:
   <a href="https://www.youtube.com/channel/UC3hzIatO4c4y8gwOtVgTuDA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rog.junior_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rogerio.dev@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rogério-junior-461417168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rogério-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-![Snake animation](https://github.com/rogyoshino/rogyoshino/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rog-junior/rog-junior/blob/output/github-contribution-grid-snake.svg)
  
 </div>

@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <ul>
-<li>🔭 Hoje eu trabalho como secretario; </li>
-<li>🌱 Estudando Javascript.</li>
+<li>🔭 Desenvolvedor Freelancer - Full-Stack Node; </li>
+<li>🌱 Estudando ReactJS</li>
 </ul>
 
 ##
